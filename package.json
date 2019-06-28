@@ -1,0 +1,22 @@
+{
+  "name": "pair-stats",
+  "version": "0.0.1",
+  "description": "Pairing stats based on git log commits",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saramic/pair-stats.git"
+  },
+  "keywords": [
+    "pairing",
+    "git",
+    "version-control",
+    "team"
+  ],
+  "author": "Michael Milewski <saramic@gmail.com> (https://www.linkedin.com/in/michael-milewski/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saramic/pair-stats/issues"
+  },
+  "homepage": "https://github.com/saramic/pair-stats#pair-stats"
+}
