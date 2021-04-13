@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "@types/lodash": "^4.14.135",
-    "gitlog": "^3.1.2",
+    "gitlog": "^4.0.4",
     "lodash": "^4.17.11",
     "yargs": "^13.2.4"
   }
